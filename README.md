@@ -1,10 +1,9 @@
 ![WORDPRESS WEB DEVELOPER ](https://github.com/akosielye/akosielye/blob/main/LinkedIn-banner-19-1024x256.png)
 
-### Hi there 👋, Glenn Elle
+# Glenn Elle
 I am a Web Developer from Philippines with good knowledge on WordPress Development.
 
 ## Skills and Experience
-
 
 Skills: WORDPRESS / JS / HTML / CSS / PHOTOSHOP
 
