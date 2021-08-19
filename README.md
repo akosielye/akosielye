@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @akosielye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-I'm Glenn from Philippines, and I do Web Developement, as well as WordPress. 
-<!---
-akosielye/akosielye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, Glenn Elle
+#### WORDPRESS WEB DEVELOPER 
+![WORDPRESS WEB DEVELOPER ](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png)
+
+I am a Web Developer from Philippines with good knowledge on WordPress Development.
+
+Skills: WORDPRESS / JS / HTML / CSS / PHOTOSHOP
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
