@@ -1,9 +1,10 @@
 ![WORDPRESS WEB DEVELOPER ](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png)
 
 ### Hi there 👋, Glenn Elle
-#### WORDPRESS WEB DEVELOPER 
-
 I am a Web Developer from Philippines with good knowledge on WordPress Development.
+
+## Skills and Experience
+
 
 Skills: WORDPRESS / JS / HTML / CSS / PHOTOSHOP
 
